@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box{
+    max-width: 800px;
+    margin: 50px auto;
+}
